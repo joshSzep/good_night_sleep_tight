@@ -32,13 +32,13 @@ Create a **Next.js 14+ application** using **TypeScript** that will be deployed 
 - Responsive design optimized for **mobile and tablet**.
 - Display the generated story in an easy-to-read format.
 
-### 4. Deployment & Open-Source Considerations:
+### 4. Deployment & Open-Source Considerations
 
 - The project should be **open-source**, with API keys stored in **environment variables** for security.  
 - Deploy the application to **Vercel**, ensuring fast response times and easy scalability.  
 - Include a **README.md** with setup instructions for local development and deployment.  
 
-## Tech Stack:
+## Tech Stack
 
 - **Frontend:** Next.js 14+, TypeScript, Tailwind CSS  
 - **Backend:** Next.js API routes, LangChain.js  
