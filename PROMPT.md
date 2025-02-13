@@ -10,15 +10,15 @@ Create a **Next.js 14+ application** using **TypeScript** that will be deployed 
 
 - **Step 1: Collect Information**
   - Present a form to gather details from parents:
-    - Child’s name  
-    - Favorite toy  
-    - Favorite food  
-    - Favorite color  
-    - Any other optional details (e.g., favorite animal, location, adventure type)  
+    - Child’s name
+    - Favorite toy
+    - Favorite food
+    - Favorite color
+    - Any other interesting details (e.g., favorite animal, location, adventure type)  
 - **Step 2: Generate Personalized Story**
   - Using the collected details, construct a unique bedtime story for the child.  
   - Ensure the story is imaginative, engaging, and age-appropriate.  
-  - The story should include the child as the main character, with their favorite toy, food, and color playing key roles.  
+  - The story should include the child as the main character, with their favorite preferences and activities playing key roles.
 
 ### 2. Backend Logic (API Routes in Next.js)
 
@@ -31,6 +31,7 @@ Create a **Next.js 14+ application** using **TypeScript** that will be deployed 
 - Simple, user-friendly UI for parents to input information.
 - Responsive design optimized for **mobile and tablet**.
 - Display the generated story in an easy-to-read format.
+- Use **dark mode** for a more immersive experience.
 
 ### 4. Deployment & Open-Source Considerations
 
